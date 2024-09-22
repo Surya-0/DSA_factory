@@ -1,1 +1,1 @@
-print("Hi and Welcome to the Pathfinder visualization project")
+print("Hi and Welcome to the DSA visualization project")
