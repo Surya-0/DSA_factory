@@ -1,0 +1,1 @@
+print("Hi and Welcome to the Pathfinder visualization project")
